@@ -1,0 +1,758 @@
+hidden_layer_sizes: 100 600
+Test set score: 0.720430
+hidden_layer_sizes: 100 600
+Test set score: 0.720430
+hidden_layer_sizes: 110 600
+Test set score: 0.645161
+hidden_layer_sizes: 120 600
+Test set score: 0.268817
+hidden_layer_sizes: 130 600
+Test set score: 0.645161
+hidden_layer_sizes: 140 600
+Test set score: 0.268817
+hidden_layer_sizes: 150 600
+Test set score: 0.655914
+hidden_layer_sizes: 160 600
+Test set score: 0.268817
+hidden_layer_sizes: 170 600
+Test set score: 0.268817
+hidden_layer_sizes: 180 600
+Test set score: 0.268817
+hidden_layer_sizes: 190 600
+Test set score: 0.268817
+hidden_layer_sizes: 200 600
+Test set score: 0.268817
+hidden_layer_sizes: 210 600
+Test set score: 0.268817
+hidden_layer_sizes: 220 600
+Test set score: 0.666667
+hidden_layer_sizes: 230 600
+Test set score: 0.720430
+hidden_layer_sizes: 240 600
+Test set score: 0.655914
+hidden_layer_sizes: 250 600
+Test set score: 0.688172
+hidden_layer_sizes: 260 600
+Test set score: 0.774194
+hidden_layer_sizes: 270 600
+Test set score: 0.268817
+hidden_layer_sizes: 280 600
+Test set score: 0.268817
+hidden_layer_sizes: 290 600
+Test set score: 0.645161
+hidden_layer_sizes: 300 600
+Test set score: 0.623656
+hidden_layer_sizes: 310 600
+Test set score: 0.645161
+hidden_layer_sizes: 320 600
+Test set score: 0.741935
+hidden_layer_sizes: 330 600
+Test set score: 0.655914
+hidden_layer_sizes: 340 600
+Test set score: 0.634409
+hidden_layer_sizes: 350 600
+Test set score: 0.268817
+hidden_layer_sizes: 360 600
+Test set score: 0.741935
+hidden_layer_sizes: 370 600
+Test set score: 0.268817
+hidden_layer_sizes: 380 600
+Test set score: 0.655914
+hidden_layer_sizes: 390 600
+Test set score: 0.268817
+hidden_layer_sizes: 400 600
+Test set score: 0.225806
+hidden_layer_sizes: 410 600
+Test set score: 0.720430
+hidden_layer_sizes: 420 600
+Test set score: 0.655914
+hidden_layer_sizes: 430 600
+Test set score: 0.268817
+hidden_layer_sizes: 440 600
+Test set score: 0.290323
+hidden_layer_sizes: 450 600
+Test set score: 0.268817
+hidden_layer_sizes: 460 600
+Test set score: 0.268817
+hidden_layer_sizes: 470 600
+Test set score: 0.731183
+hidden_layer_sizes: 480 600
+Test set score: 0.268817
+hidden_layer_sizes: 490 600
+Test set score: 0.752688
+hidden_layer_sizes: 500 600
+Test set score: 0.666667
+hidden_layer_sizes: 510 600
+Test set score: 0.677419
+hidden_layer_sizes: 520 600
+Test set score: 0.666667
+hidden_layer_sizes: 530 600
+Test set score: 0.268817
+hidden_layer_sizes: 540 600
+Test set score: 0.666667
+hidden_layer_sizes: 550 600
+Test set score: 0.720430
+hidden_layer_sizes: 560 600
+Test set score: 0.688172
+hidden_layer_sizes: 570 600
+Test set score: 0.666667
+hidden_layer_sizes: 580 600
+Test set score: 0.268817
+hidden_layer_sizes: 590 600
+Test set score: 0.677419
+hidden_layer_sizes: 600 600
+Test set score: 0.655914
+hidden_layer_sizes: 610 600
+Test set score: 0.268817
+hidden_layer_sizes: 620 600
+Test set score: 0.677419
+hidden_layer_sizes: 630 600
+Test set score: 0.688172
+hidden_layer_sizes: 640 600
+Test set score: 0.494624
+hidden_layer_sizes: 650 600
+Test set score: 0.623656
+hidden_layer_sizes: 660 600
+Test set score: 0.268817
+hidden_layer_sizes: 670 600
+Test set score: 0.752688
+hidden_layer_sizes: 680 600
+Test set score: 0.473118
+hidden_layer_sizes: 690 600
+Test set score: 0.645161
+hidden_layer_sizes: 700 600
+Test set score: 0.731183
+hidden_layer_sizes: 710 600
+Test set score: 0.645161
+hidden_layer_sizes: 720 600
+Test set score: 0.741935
+hidden_layer_sizes: 730 600
+Test set score: 0.666667
+hidden_layer_sizes: 740 600
+Test set score: 0.677419
+hidden_layer_sizes: 750 600
+Test set score: 0.720430
+hidden_layer_sizes: 760 600
+Test set score: 0.623656
+hidden_layer_sizes: 770 600
+Test set score: 0.268817
+hidden_layer_sizes: 780 600
+Test set score: 0.268817
+hidden_layer_sizes: 790 600
+Test set score: 0.720430
+hidden_layer_sizes: 800 600
+Test set score: 0.634409
+hidden_layer_sizes: 810 600
+Test set score: 0.720430
+hidden_layer_sizes: 820 600
+Test set score: 0.268817
+hidden_layer_sizes: 830 600
+Test set score: 0.655914
+hidden_layer_sizes: 840 600
+Test set score: 0.666667
+hidden_layer_sizes: 850 600
+Test set score: 0.483871
+hidden_layer_sizes: 860 600
+Test set score: 0.655914
+hidden_layer_sizes: 870 600
+Test set score: 0.698925
+hidden_layer_sizes: 880 600
+Test set score: 0.720430
+hidden_layer_sizes: 890 600
+Test set score: 0.666667
+hidden_layer_sizes: 900 600
+Test set score: 0.741935
+hidden_layer_sizes: 910 600
+Test set score: 0.666667
+hidden_layer_sizes: 920 600
+Test set score: 0.666667
+hidden_layer_sizes: 930 600
+Test set score: 0.655914
+hidden_layer_sizes: 940 600
+Test set score: 0.268817
+hidden_layer_sizes: 950 600
+Test set score: 0.688172
+hidden_layer_sizes: 960 600
+Test set score: 0.268817
+hidden_layer_sizes: 970 600
+Test set score: 0.698925
+hidden_layer_sizes: 980 600
+Test set score: 0.268817
+hidden_layer_sizes: 990 600
+Test set score: 0.268817
+hidden_layer_sizes: 1000 600
+Test set score: 0.677419
+hidden_layer_sizes: 100 610
+Test set score: 0.268817
+hidden_layer_sizes: 100 610
+Test set score: 0.268817
+hidden_layer_sizes: 100 620
+Test set score: 0.698925
+hidden_layer_sizes: 100 630
+Test set score: 0.268817
+hidden_layer_sizes: 100 640
+Test set score: 0.268817
+hidden_layer_sizes: 100 650
+Test set score: 0.666667
+hidden_layer_sizes: 100 660
+Test set score: 0.666667
+hidden_layer_sizes: 100 670
+Test set score: 0.741935
+hidden_layer_sizes: 100 680
+Test set score: 0.483871
+hidden_layer_sizes: 100 690
+Test set score: 0.268817
+hidden_layer_sizes: 100 700
+Test set score: 0.731183
+hidden_layer_sizes: 100 710
+Test set score: 0.268817
+hidden_layer_sizes: 100 720
+Test set score: 0.741935
+hidden_layer_sizes: 100 730
+Test set score: 0.623656
+hidden_layer_sizes: 100 740
+Test set score: 0.741935
+hidden_layer_sizes: 100 750
+Test set score: 0.268817
+hidden_layer_sizes: 100 760
+Test set score: 0.268817
+hidden_layer_sizes: 100 770
+Test set score: 0.268817
+hidden_layer_sizes: 100 780
+Test set score: 0.752688
+hidden_layer_sizes: 100 790
+Test set score: 0.268817
+hidden_layer_sizes: 100 800
+Test set score: 0.677419
+hidden_layer_sizes: 100 810
+Test set score: 0.655914
+hidden_layer_sizes: 100 820
+Test set score: 0.440860
+hidden_layer_sizes: 100 830
+Test set score: 0.354839
+hidden_layer_sizes: 100 840
+Test set score: 0.225806
+hidden_layer_sizes: 100 850
+Test set score: 0.268817
+hidden_layer_sizes: 100 860
+Test set score: 0.268817
+hidden_layer_sizes: 100 870
+Test set score: 0.655914
+hidden_layer_sizes: 100 880
+Test set score: 0.225806
+hidden_layer_sizes: 100 890
+Test set score: 0.709677
+hidden_layer_sizes: 100 900
+Test set score: 0.268817
+hidden_layer_sizes: 100 910
+Test set score: 0.666667
+hidden_layer_sizes: 100 920
+Test set score: 0.268817
+hidden_layer_sizes: 100 930
+Test set score: 0.677419
+hidden_layer_sizes: 100 940
+Test set score: 0.225806
+hidden_layer_sizes: 100 950
+Test set score: 0.763441
+hidden_layer_sizes: 100 960
+Test set score: 0.741935
+hidden_layer_sizes: 100 970
+Test set score: 0.698925
+hidden_layer_sizes: 100 980
+Test set score: 0.720430
+hidden_layer_sizes: 100 990
+Test set score: 0.731183
+hidden_layer_sizes: 100 1000
+Test set score: 0.677419
+hidden_layer_sizes: 100 610
+Test set score: 0.268817
+hidden_layer_sizes: 100 610
+Test set score: 0.268817
+hidden_layer_sizes: 100 300
+Test set score: 0.268817
+hidden_layer_sizes: 100 310
+Test set score: 0.698925
+hidden_layer_sizes: 100 320
+Test set score: 0.634409
+hidden_layer_sizes: 100 330
+Test set score: 0.655914
+hidden_layer_sizes: 100 340
+Test set score: 0.268817
+hidden_layer_sizes: 100 350
+Test set score: 0.225806
+hidden_layer_sizes: 100 360
+Test set score: 0.268817
+hidden_layer_sizes: 100 370
+Test set score: 0.268817
+hidden_layer_sizes: 100 380
+Test set score: 0.268817
+hidden_layer_sizes: 100 390
+Test set score: 0.268817
+hidden_layer_sizes: 100 400
+Test set score: 0.268817
+hidden_layer_sizes: 100 410
+Test set score: 0.698925
+hidden_layer_sizes: 100 420
+Test set score: 0.268817
+hidden_layer_sizes: 100 430
+Test set score: 0.688172
+hidden_layer_sizes: 100 440
+Test set score: 0.419355
+hidden_layer_sizes: 100 450
+Test set score: 0.559140
+hidden_layer_sizes: 100 460
+Test set score: 0.268817
+hidden_layer_sizes: 100 470
+Test set score: 0.612903
+hidden_layer_sizes: 100 480
+Test set score: 0.688172
+hidden_layer_sizes: 100 490
+Test set score: 0.634409
+hidden_layer_sizes: 100 500
+Test set score: 0.268817
+hidden_layer_sizes: 100 510
+Test set score: 0.494624
+hidden_layer_sizes: 100 520
+Test set score: 0.268817
+hidden_layer_sizes: 100 530
+Test set score: 0.655914
+hidden_layer_sizes: 100 540
+Test set score: 0.634409
+hidden_layer_sizes: 100 550
+Test set score: 0.268817
+hidden_layer_sizes: 100 560
+Test set score: 0.268817
+hidden_layer_sizes: 100 570
+Test set score: 0.731183
+hidden_layer_sizes: 100 580
+Test set score: 0.268817
+hidden_layer_sizes: 100 590
+Test set score: 0.268817
+hidden_layer_sizes: 600 100
+Test set score: 0.268817
+hidden_layer_sizes: 610 100
+Test set score: 0.688172
+hidden_layer_sizes: 620 100
+Test set score: 0.666667
+hidden_layer_sizes: 630 100
+Test set score: 0.483871
+hidden_layer_sizes: 640 100
+Test set score: 0.268817
+hidden_layer_sizes: 650 100
+Test set score: 0.225806
+hidden_layer_sizes: 660 100
+Test set score: 0.655914
+hidden_layer_sizes: 670 100
+Test set score: 0.655914
+hidden_layer_sizes: 680 100
+Test set score: 0.623656
+hidden_layer_sizes: 690 100
+Test set score: 0.666667
+hidden_layer_sizes: 700 100
+Test set score: 0.580645
+hidden_layer_sizes: 710 100
+Test set score: 0.268817
+hidden_layer_sizes: 720 100
+Test set score: 0.268817
+hidden_layer_sizes: 730 100
+Test set score: 0.268817
+hidden_layer_sizes: 740 100
+Test set score: 0.225806
+hidden_layer_sizes: 750 100
+Test set score: 0.645161
+hidden_layer_sizes: 760 100
+Test set score: 0.473118
+hidden_layer_sizes: 770 100
+Test set score: 0.290323
+hidden_layer_sizes: 780 100
+Test set score: 0.655914
+hidden_layer_sizes: 790 100
+Test set score: 0.731183
+hidden_layer_sizes: 800 100
+Test set score: 0.580645
+hidden_layer_sizes: 810 100
+Test set score: 0.268817
+hidden_layer_sizes: 820 100
+Test set score: 0.688172
+hidden_layer_sizes: 830 100
+Test set score: 0.483871
+hidden_layer_sizes: 840 100
+Test set score: 0.741935
+hidden_layer_sizes: 850 100
+Test set score: 0.655914
+hidden_layer_sizes: 860 100
+Test set score: 0.268817
+hidden_layer_sizes: 870 100
+Test set score: 0.268817
+hidden_layer_sizes: 880 100
+Test set score: 0.645161
+hidden_layer_sizes: 890 100
+Test set score: 0.268817
+hidden_layer_sizes: 900 100
+Test set score: 0.655914
+hidden_layer_sizes: 910 100
+Test set score: 0.655914
+hidden_layer_sizes: 920 100
+Test set score: 0.268817
+hidden_layer_sizes: 930 100
+Test set score: 0.430108
+hidden_layer_sizes: 940 100
+Test set score: 0.268817
+hidden_layer_sizes: 950 100
+Test set score: 0.268817
+hidden_layer_sizes: 960 100
+Test set score: 0.645161
+hidden_layer_sizes: 970 100
+Test set score: 0.268817
+hidden_layer_sizes: 980 100
+Test set score: 0.268817
+hidden_layer_sizes: 990 100
+Test set score: 0.580645
+hidden_layer_sizes: 1000 100
+Test set score: 0.268817
+hidden_layer_sizes: 200 100
+Test set score: 0.268817
+hidden_layer_sizes: 210 100
+Test set score: 0.268817
+hidden_layer_sizes: 220 100
+Test set score: 0.268817
+hidden_layer_sizes: 230 100
+Test set score: 0.709677
+hidden_layer_sizes: 240 100
+Test set score: 0.666667
+hidden_layer_sizes: 250 100
+Test set score: 0.645161
+hidden_layer_sizes: 260 100
+Test set score: 0.645161
+hidden_layer_sizes: 270 100
+Test set score: 0.268817
+hidden_layer_sizes: 280 100
+Test set score: 0.225806
+hidden_layer_sizes: 290 100
+Test set score: 0.268817
+hidden_layer_sizes: 300 100
+Test set score: 0.268817
+hidden_layer_sizes: 310 100
+Test set score: 0.741935
+hidden_layer_sizes: 320 100
+Test set score: 0.225806
+hidden_layer_sizes: 330 100
+Test set score: 0.473118
+hidden_layer_sizes: 340 100
+Test set score: 0.752688
+hidden_layer_sizes: 350 100
+Test set score: 0.666667
+hidden_layer_sizes: 360 100
+Test set score: 0.591398
+hidden_layer_sizes: 370 100
+Test set score: 0.483871
+hidden_layer_sizes: 380 100
+Test set score: 0.494624
+hidden_layer_sizes: 390 100
+Test set score: 0.225806
+hidden_layer_sizes: 400 100
+Test set score: 0.268817
+hidden_layer_sizes: 410 100
+Test set score: 0.666667
+hidden_layer_sizes: 420 100
+Test set score: 0.526882
+hidden_layer_sizes: 430 100
+Test set score: 0.655914
+hidden_layer_sizes: 440 100
+Test set score: 0.731183
+hidden_layer_sizes: 450 100
+Test set score: 0.268817
+hidden_layer_sizes: 460 100
+Test set score: 0.268817
+hidden_layer_sizes: 470 100
+Test set score: 0.268817
+hidden_layer_sizes: 480 100
+Test set score: 0.268817
+hidden_layer_sizes: 490 100
+Test set score: 0.709677
+hidden_layer_sizes: 500 100
+Test set score: 0.666667
+hidden_layer_sizes: 510 100
+Test set score: 0.677419
+hidden_layer_sizes: 520 100
+Test set score: 0.709677
+hidden_layer_sizes: 530 100
+Test set score: 0.645161
+hidden_layer_sizes: 540 100
+Test set score: 0.655914
+hidden_layer_sizes: 550 100
+Test set score: 0.268817
+hidden_layer_sizes: 560 100
+Test set score: 0.193548
+hidden_layer_sizes: 570 100
+Test set score: 0.333333
+hidden_layer_sizes: 580 100
+Test set score: 0.268817
+hidden_layer_sizes: 590 100
+Test set score: 0.720430
+hidden_layer_sizes: 300 300
+Test set score: 0.268817
+hidden_layer_sizes: 310 300
+Test set score: 0.655914
+hidden_layer_sizes: 320 300
+Test set score: 0.268817
+hidden_layer_sizes: 330 300
+Test set score: 0.741935
+hidden_layer_sizes: 340 300
+Test set score: 0.559140
+hidden_layer_sizes: 350 300
+Test set score: 0.634409
+hidden_layer_sizes: 360 300
+Test set score: 0.645161
+hidden_layer_sizes: 370 300
+Test set score: 0.655914
+hidden_layer_sizes: 380 300
+Test set score: 0.526882
+hidden_layer_sizes: 390 300
+Test set score: 0.698925
+hidden_layer_sizes: 400 300
+Test set score: 0.387097
+hidden_layer_sizes: 410 300
+Test set score: 0.720430
+hidden_layer_sizes: 420 300
+Test set score: 0.279570
+hidden_layer_sizes: 430 300
+Test set score: 0.591398
+hidden_layer_sizes: 440 300
+Test set score: 0.494624
+hidden_layer_sizes: 450 300
+Test set score: 0.634409
+hidden_layer_sizes: 460 300
+Test set score: 0.215054
+hidden_layer_sizes: 470 300
+Test set score: 0.698925
+hidden_layer_sizes: 480 300
+Test set score: 0.645161
+hidden_layer_sizes: 490 300
+Test set score: 0.688172
+hidden_layer_sizes: 500 300
+Test set score: 0.720430
+hidden_layer_sizes: 510 300
+Test set score: 0.741935
+hidden_layer_sizes: 520 300
+Test set score: 0.666667
+hidden_layer_sizes: 530 300
+Test set score: 0.752688
+hidden_layer_sizes: 540 300
+Test set score: 0.698925
+hidden_layer_sizes: 550 300
+Test set score: 0.494624
+hidden_layer_sizes: 560 300
+Test set score: 0.763441
+hidden_layer_sizes: 570 300
+Test set score: 0.655914
+hidden_layer_sizes: 580 300
+Test set score: 0.268817
+hidden_layer_sizes: 590 300
+Test set score: 0.666667
+hidden_layer_sizes: 600 300
+Test set score: 0.268817
+hidden_layer_sizes: 400 200
+Test set score: 0.741935
+hidden_layer_sizes: 410 200
+Test set score: 0.268817
+hidden_layer_sizes: 420 200
+Test set score: 0.688172
+hidden_layer_sizes: 430 200
+Test set score: 0.387097
+hidden_layer_sizes: 440 200
+Test set score: 0.634409
+hidden_layer_sizes: 450 200
+Test set score: 0.698925
+hidden_layer_sizes: 460 200
+Test set score: 0.666667
+hidden_layer_sizes: 470 200
+Test set score: 0.645161
+hidden_layer_sizes: 480 200
+Test set score: 0.720430
+hidden_layer_sizes: 490 200
+Test set score: 0.462366
+hidden_layer_sizes: 500 200
+Test set score: 0.645161
+hidden_layer_sizes: 510 200
+Test set score: 0.731183
+hidden_layer_sizes: 520 200
+Test set score: 0.591398
+hidden_layer_sizes: 530 200
+Test set score: 0.655914
+hidden_layer_sizes: 540 200
+Test set score: 0.666667
+hidden_layer_sizes: 550 200
+Test set score: 0.720430
+hidden_layer_sizes: 560 200
+Test set score: 0.688172
+hidden_layer_sizes: 570 200
+Test set score: 0.677419
+hidden_layer_sizes: 580 200
+Test set score: 0.666667
+hidden_layer_sizes: 590 200
+Test set score: 0.677419
+hidden_layer_sizes: 600 200
+Test set score: 0.720430
+hidden_layer_sizes: 610 200
+Test set score: 0.666667
+hidden_layer_sizes: 620 200
+Test set score: 0.666667
+hidden_layer_sizes: 630 200
+Test set score: 0.623656
+hidden_layer_sizes: 640 200
+Test set score: 0.741935
+hidden_layer_sizes: 650 200
+Test set score: 0.462366
+hidden_layer_sizes: 660 200
+Test set score: 0.677419
+hidden_layer_sizes: 670 200
+Test set score: 0.268817
+hidden_layer_sizes: 680 200
+Test set score: 0.268817
+hidden_layer_sizes: 690 200
+Test set score: 0.268817
+hidden_layer_sizes: 700 200
+Test set score: 0.731183
+hidden_layer_sizes: 710 200
+Test set score: 0.645161
+hidden_layer_sizes: 740 200
+Test set score: 0.602151
+hidden_layer_sizes: 750 200
+Test set score: 0.655914
+hidden_layer_sizes: 760 200
+Test set score: 0.655914
+hidden_layer_sizes: 790 200
+Test set score: 0.268817
+hidden_layer_sizes: 810 200
+Test set score: 0.634409
+hidden_layer_sizes: 830 200
+Test set score: 0.451613
+hidden_layer_sizes: 850 200
+Test set score: 0.731183
+hidden_layer_sizes: 870 200
+Test set score: 0.225806
+hidden_layer_sizes: 880 200
+Test set score: 0.666667
+hidden_layer_sizes: 890 200
+Test set score: 0.268817
+hidden_layer_sizes: 910 200
+Test set score: 0.602151
+hidden_layer_sizes: 920 200
+Test set score: 0.752688
+hidden_layer_sizes: 940 200
+Test set score: 0.494624
+hidden_layer_sizes: 950 200
+Test set score: 0.655914
+hidden_layer_sizes: 970 200
+Test set score: 0.666667
+hidden_layer_sizes: 990 200
+Test set score: 0.268817
+hidden_layer_sizes: 990 220
+Test set score: 0.666667
+hidden_layer_sizes: 990 240
+Test set score: 0.655914
+hidden_layer_sizes: 990 260
+Test set score: 0.623656
+hidden_layer_sizes: 990 270
+Test set score: 0.655914
+hidden_layer_sizes: 990 290
+Test set score: 0.677419
+hidden_layer_sizes: 990 300
+Test set score: 0.666667
+hidden_layer_sizes: 990 320
+Test set score: 0.720430
+hidden_layer_sizes: 990 340
+Test set score: 0.483871
+hidden_layer_sizes: 990 350
+Test set score: 0.720430
+hidden_layer_sizes: 990 360
+Test set score: 0.473118
+hidden_layer_sizes: 990 380
+Test set score: 0.645161
+hidden_layer_sizes: 990 400
+Test set score: 0.290323
+hidden_layer_sizes: 990 420
+Test set score: 0.720430
+hidden_layer_sizes: 990 440
+Test set score: 0.688172
+hidden_layer_sizes: 990 460
+Test set score: 0.666667
+hidden_layer_sizes: 990 470
+Test set score: 0.741935
+hidden_layer_sizes: 990 480
+Test set score: 0.741935
+hidden_layer_sizes: 990 500
+Test set score: 0.268817
+hidden_layer_sizes: 990 520
+Test set score: 0.494624
+hidden_layer_sizes: 990 540
+Test set score: 0.655914
+hidden_layer_sizes: 990 560
+Test set score: 0.655914
+hidden_layer_sizes: 990 580
+Test set score: 0.655914
+hidden_layer_sizes: 990 600
+Test set score: 0.268817
+hidden_layer_sizes: 990 620
+Test set score: 0.677419
+hidden_layer_sizes: 990 640
+Test set score: 0.268817
+hidden_layer_sizes: 990 660
+Test set score: 0.655914
+hidden_layer_sizes: 990 670
+Test set score: 0.268817
+hidden_layer_sizes: 990 680
+Test set score: 0.655914
+hidden_layer_sizes: 990 700
+Test set score: 0.709677
+hidden_layer_sizes: 600 700
+Test set score: 0.666667
+hidden_layer_sizes: 620 700
+Test set score: 0.268817
+hidden_layer_sizes: 640 700
+Test set score: 0.720430
+hidden_layer_sizes: 660 700
+Test set score: 0.731183
+hidden_layer_sizes: 680 700
+Test set score: 0.268817
+hidden_layer_sizes: 700 700
+Test set score: 0.268817
+hidden_layer_sizes: 720 700
+Test set score: 0.645161
+hidden_layer_sizes: 740 700
+Test set score: 0.268817
+hidden_layer_sizes: 760 700
+Test set score: 0.698925
+hidden_layer_sizes: 780 700
+Test set score: 0.741935
+hidden_layer_sizes: 800 700
+Test set score: 0.677419
+hidden_layer_sizes: 820 700
+Test set score: 0.268817
+hidden_layer_sizes: 500 700
+Test set score: 0.354839
+hidden_layer_sizes: 520 700
+Test set score: 0.268817
+hidden_layer_sizes: 540 700
+Test set score: 0.645161
+hidden_layer_sizes: 560 700
+Test set score: 0.268817
+hidden_layer_sizes: 580 700
+Test set score: 0.494624
+hidden_layer_sizes: 400 700
+Test set score: 0.634409
+hidden_layer_sizes: 420 700
+Test set score: 0.268817
+hidden_layer_sizes: 440 700
+Test set score: 0.645161
+hidden_layer_sizes: 460 700
+Test set score: 0.645161
+hidden_layer_sizes: 480 700
+Test set score: 0.731183
+hidden_layer_sizes: 300 700
+Test set score: 0.645161
+hidden_layer_sizes: 330 700
+Test set score: 0.225806
+hidden_layer_sizes: 350 700
+Test set score: 0.634409
